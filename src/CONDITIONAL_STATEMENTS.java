@@ -69,7 +69,7 @@ public class CONDITIONAL_STATEMENTS
                     case 'i', 'u', 'o' -> System.out.println("vowel");
                     default -> System.out.println("not vowel");
                 }
-                
+
 
         }
     }

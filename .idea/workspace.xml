@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="be67833c-30d1-4124-bbc2-f0f4ce46bd02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSD-JAVA-ASSIGNMENTS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CONDITIONAL_STATEMENTS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/INPUT_FROM_USER.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LOOPING_CONSTRUCTS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OPERATORS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/READ_CONTENT_OF_FILE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VARIABLES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MATRIX_MULTIPLICATION.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
